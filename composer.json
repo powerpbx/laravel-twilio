@@ -1,5 +1,5 @@
 {
-    "name": "aloha/twilio",
+    "name": "powerpbx/twiliobridge",
     "description": "Twilio API for Laravel",
     "type": "library",
     "keywords": ["sms","ivr","laravel","twilio"],
