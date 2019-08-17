@@ -17,7 +17,7 @@
             "email": "vandevreken.hannes@gmail.com"
         }
     ],
-    "homepage":"https://github.com/aloha/laravel-twilio",
+    "homepage":"https://github.com/powerpbx/twiliobridge",
     "license": "MIT",
     "require": {
         "php": ">=5.5.0",
