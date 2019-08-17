@@ -1,10 +1,10 @@
 <?php
-namespace Aloha\Twilio\Support\Laravel;
+namespace PowerPBX\Twilio\Support\Laravel;
 
-use Aloha\Twilio\Commands\TwilioCallCommand;
-use Aloha\Twilio\Commands\TwilioSmsCommand;
-use Aloha\Twilio\Manager;
-use Aloha\Twilio\TwilioInterface;
+use PowerPBX\Twilio\Commands\TwilioCallCommand;
+use PowerPBX\Twilio\Commands\TwilioSmsCommand;
+use PowerPBX\Twilio\Manager;
+use PowerPBX\Twilio\TwilioInterface;
 
 trait ServiceProviderTrait
 {
