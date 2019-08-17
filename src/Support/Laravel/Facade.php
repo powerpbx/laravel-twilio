@@ -1,5 +1,5 @@
 <?php
-namespace Aloha\Twilio\Support\Laravel;
+namespace PowerPBX\Twilio\Support\Laravel;
 
 use Illuminate\Support\Facades\Facade as BaseFacade;
 
