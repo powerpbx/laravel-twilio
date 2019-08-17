@@ -1,5 +1,5 @@
 <?php
-namespace Aloha\Twilio;
+namespace PowerPBX\Twilio;
 
 class Dummy implements TwilioInterface
 {
