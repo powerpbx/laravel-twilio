@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Aloha\\Twilio\\": "src/"
+            "PowerPBX\\Twilio\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Aloha\\Twilio\\Tests\\": "tests/"
+            "PowerPBX\\Twilio\\Tests\\": "tests/"
         }
     },
     "scripts": {
@@ -43,10 +43,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Aloha\\Twilio\\Support\\Laravel\\ServiceProvider"
+                "PowerPBX\\Twilio\\Support\\Laravel\\ServiceProvider"
             ],
             "aliases": {
-                "Twilio": "Aloha\\Twilio\\Support\\Laravel\\Facade"
+                "Twilio": "PowerPBX\\Twilio\\Support\\Laravel\\Facade"
             }
         }
     }
