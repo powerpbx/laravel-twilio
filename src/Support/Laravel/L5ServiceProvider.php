@@ -1,8 +1,8 @@
 <?php
-namespace Aloha\Twilio\Support\Laravel;
+namespace PowerPBX\Twilio\Support\Laravel;
 
-use Aloha\Twilio\Commands\TwilioCallCommand;
-use Aloha\Twilio\Commands\TwilioSmsCommand;
+use PowerPBX\Twilio\Commands\TwilioCallCommand;
+use PowerPBX\Twilio\Commands\TwilioSmsCommand;
 use Illuminate\Support\ServiceProvider as LaravelServiceProvider;
 
 class L5ServiceProvider extends LaravelServiceProvider
