@@ -1,7 +1,7 @@
 <?php
-namespace Aloha\Twilio\Tests;
+namespace PowerPBX\Twilio\Tests;
 
-use Aloha\Twilio\Commands\TwilioSmsCommand;
+use PowerPBX\Twilio\Commands\TwilioSmsCommand;
 use PHPUnit_Framework_TestCase;
 
 class TwilioSmsCommandTest extends PHPUnit_Framework_TestCase
