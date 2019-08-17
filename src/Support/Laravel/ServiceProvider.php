@@ -1,5 +1,5 @@
 <?php
-namespace Aloha\Twilio\Support\Laravel;
+namespace PowerPBX\Twilio\Support\Laravel;
 
 use Illuminate\Foundation\Application;
 use Illuminate\Support\ServiceProvider as LaravelServiceProvider;
