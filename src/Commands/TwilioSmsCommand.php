@@ -1,7 +1,7 @@
 <?php
-namespace Aloha\Twilio\Commands;
+namespace PowerPBX\Twilio\Commands;
 
-use Aloha\Twilio\TwilioInterface;
+use PowerPBX\Twilio\TwilioInterface;
 use Illuminate\Console\Command;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputOption;
