@@ -5,6 +5,10 @@
     "keywords": ["sms","ivr","laravel","twilio"],
     "authors": [
         {
+            "name": "PowerPBX",
+            "email": "devops@powerpbx.org"
+        },
+        {
             "name": "Travis J Ryan",
             "email": "travisjryan@gmail.com"
         },
